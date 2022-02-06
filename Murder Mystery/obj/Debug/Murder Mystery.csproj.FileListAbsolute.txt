@@ -1,0 +1,10 @@
+C:\Users\Sayumi\Desktop\A1New\Murder Mystery\Murder Mystery\bin\Debug\Murder Mystery.exe.config
+C:\Users\Sayumi\Desktop\A1New\Murder Mystery\Murder Mystery\bin\Debug\Murder Mystery.exe
+C:\Users\Sayumi\Desktop\A1New\Murder Mystery\Murder Mystery\bin\Debug\Murder Mystery.pdb
+C:\Users\Sayumi\Desktop\A1New\Murder Mystery\Murder Mystery\obj\Debug\Murder Mystery.csproj.AssemblyReference.cache
+C:\Users\Sayumi\Desktop\A1New\Murder Mystery\Murder Mystery\obj\Debug\Murder_Mystery.Form1.resources
+C:\Users\Sayumi\Desktop\A1New\Murder Mystery\Murder Mystery\obj\Debug\Murder_Mystery.Properties.Resources.resources
+C:\Users\Sayumi\Desktop\A1New\Murder Mystery\Murder Mystery\obj\Debug\Murder Mystery.csproj.GenerateResource.cache
+C:\Users\Sayumi\Desktop\A1New\Murder Mystery\Murder Mystery\obj\Debug\Murder Mystery.csproj.CoreCompileInputs.cache
+C:\Users\Sayumi\Desktop\A1New\Murder Mystery\Murder Mystery\obj\Debug\Murder Mystery.exe
+C:\Users\Sayumi\Desktop\A1New\Murder Mystery\Murder Mystery\obj\Debug\Murder Mystery.pdb

@@ -16,5 +16,11 @@ namespace Murder_Mystery
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            label3.Text = textBox1.Text;
+            textBox1.Text = label3.Text;
+        }
     }
 }
