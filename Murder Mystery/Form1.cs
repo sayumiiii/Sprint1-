@@ -26,13 +26,33 @@ namespace Murder_Mystery
         private void button2_Click(object sender, EventArgs e)
         {
             textBox1.Text = textBox1.Text;
-
-            
+            label4.Text = "";
             string txt = textBox1.Text;
             char[] array = txt.ToCharArray();
             Array.Reverse(array);
             string txtResult = new string(array);
             label4.Text = txtResult;
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            try 
+            {
+             label3.Text = "";
+            int value = int.Parse(textBox1.Text);
+            string binary = Convert.ToString(value, 2);
+            label4.Text = binary;
+            }
+            catch
+            {
+                labelError.Text = "please enter a numeric";
+            }
+            
+        }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+            labelError.Text = "";
         }
     }
 }
