@@ -22,5 +22,17 @@ namespace Murder_Mystery
             label3.Text = textBox1.Text;
             textBox1.Text = label3.Text;
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            textBox1.Text = textBox1.Text;
+
+            
+            string txt = textBox1.Text;
+            char[] array = txt.ToCharArray();
+            Array.Reverse(array);
+            string txtResult = new string(array);
+            label4.Text = txtResult;
+        }
     }
 }
