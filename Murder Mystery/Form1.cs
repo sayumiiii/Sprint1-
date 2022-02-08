@@ -68,5 +68,30 @@ namespace Murder_Mystery
             textBox1.Text = textBox1.Text;
             label6.Text = textBox1.Text;
         }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            this.ForeColor = Color.White;
+            this.BackColor = Color.FromArgb(32, 32, 32);
+            button1.ForeColor = Color.Black;
+            button2.ForeColor = Color.Black;
+            button3.ForeColor = Color.Black;
+            button4.ForeColor = Color.Black;
+            button5.ForeColor = Color.Black;
+            groupBox1.ForeColor = Color.White;
+
+        }
+
+        private void button7_Click(object sender, EventArgs e)
+        {
+            this.ForeColor = Color.Black;
+            this.BackColor = Color.White;
+            button1.ForeColor = Color.Black;
+            button2.ForeColor = Color.Black;
+            button3.ForeColor = Color.Black;
+            button4.ForeColor = Color.Black;
+            button5.ForeColor = Color.Black;
+            groupBox1.ForeColor = Color.Black;
+        }
     }
 }
