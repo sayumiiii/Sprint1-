@@ -54,5 +54,11 @@ namespace Murder_Mystery
         {
             labelError.Text = "";
         }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            label3.Text = "";
+            label5.Text = textBox1.Text;
+        }
     }
 }
